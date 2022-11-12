@@ -1,0 +1,24 @@
+.gallery-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+
+    gap:10px;
+
+}
+.gallery-column{
+
+    display: flex;
+    flex-direction: column;
+}
+.img-gallery-div{
+    box-sizing: border-box;
+    width: 100%;
+
+    object-fit: cover;
+}
+.gallery-img{
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin-right: 10px;
+}

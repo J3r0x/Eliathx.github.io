@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fba1eb3-77c2-4cf8-a9c7-b49f47a73478" name="Changes" comment="" />
+    <list id="40361ce6-ff00-4d46-8684-7bfe6db771ce" name="Changes by jeanp" comment="" />
+    <list id="a26e6dea-7852-4751-b8d3-8ed4872ed49b" name="Changes by PC" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/imagen-sistemas" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GT3TCp3xTj6vRE5j56erin1WQC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TODO_SCOPE": "All Places",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "last_opened_file_path": "C:/Users/Usuario-PC/Desktop/imagen-sistemas-website",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "C:\\Users\\Usuario-PC\\AppData\\Local\\JetBrains\\Toolbox\\apps\\WebStorm\\ch-0\\222.4345.14\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario-PC\Desktop\imagen-sistemas-website\imagen-sistemas\src\pages" />
+      <recent name="C:\Users\Usuario-PC\Desktop\imagen-sistemas-website\imagen-sistemas\src" />
+      <recent name="C:\Users\Usuario-PC\Desktop\imagen-sistemas-website\imagen-sistemas\src\styles" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fba1eb3-77c2-4cf8-a9c7-b49f47a73478" name="Changes" comment="" />
+      <created>1666398753350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666398753350</updated>
+      <workItem from="1666398754597" duration="17835000" />
+      <workItem from="1666474337276" duration="2451000" />
+      <workItem from="1666486934711" duration="1871000" />
+      <workItem from="1666496946956" duration="11545000" />
+      <workItem from="1666546033066" duration="23311000" />
+      <workItem from="1666576283692" duration="1555000" />
+      <workItem from="1666729296842" duration="1418000" />
+      <workItem from="1666745166779" duration="10724000" />
+      <workItem from="1666805417799" duration="6239000" />
+      <workItem from="1667058872877" duration="985000" />
+      <workItem from="1667059902810" duration="10520000" />
+      <workItem from="1667077184516" duration="5332000" />
+      <workItem from="1667138753864" duration="15090000" />
+      <workItem from="1667250016413" duration="3007000" />
+      <workItem from="1667493853983" duration="6901000" />
+      <workItem from="1667615278803" duration="596000" />
+      <workItem from="1667763290059" duration="2000" />
+      <workItem from="1667924858681" duration="48000" />
+      <workItem from="1667947318127" duration="290000" />
+      <workItem from="1667950195896" duration="1779000" />
+      <workItem from="1668293728016" duration="1439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
