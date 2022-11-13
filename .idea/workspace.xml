@@ -11,34 +11,24 @@
       <change beforePath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/15.pack" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/15.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/16.pack" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/16.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/18.pack" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/18.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/19.pack" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/19.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/2.pack" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/2.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/20.pack" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/20.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/21.pack" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/21.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/22.pack" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/22.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/3.pack" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/3.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/4.pack" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/4.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/5.pack" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/5.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/7.pack" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/7.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/8.pack" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/8.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/index.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/node_modules/.cache/default-development/index.pack.old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imagen-sistemas/src/components/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/src/components/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagen-sistemas/src/components/slide.js" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/src/components/slide.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imagen-sistemas/src/components/slideshow.js" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/src/components/slideshow.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imagen-sistemas/src/components/tab.js" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/src/components/tab.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagen-sistemas/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagen-sistemas/src/pages/Biblioteca.js" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/src/pages/Biblioteca.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagen-sistemas/src/styles/clubes-board.css" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/src/styles/clubes-board.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagen-sistemas/src/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/src/styles/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagen-sistemas/src/styles/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/src/styles/header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imagen-sistemas/src/styles/slide.css" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/src/styles/slide.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagen-sistemas/src/styles/tab.css" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/src/styles/tab.css" afterDir="false" />
     </list>
     <list id="40361ce6-ff00-4d46-8684-7bfe6db771ce" name="Changes by jeanp" comment="" />
-    <list id="a26e6dea-7852-4751-b8d3-8ed4872ed49b" name="Changes by PC" comment="">
-      <change beforePath="$PROJECT_DIR$/imagen-sistemas/src/pages/Biblioteca.js" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/src/pages/Biblioteca.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagen-sistemas/src/styles/Biblioteca.css" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/src/styles/Biblioteca.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagen-sistemas/src/styles/quienesSomos.css" beforeDir="false" afterPath="$PROJECT_DIR$/imagen-sistemas/src/styles/quienesSomos.css" afterDir="false" />
-    </list>
+    <list id="a26e6dea-7852-4751-b8d3-8ed4872ed49b" name="Changes by PC" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,14 +44,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/imagen-sistemas/src/pages/Biblioteca.js">
-      <ranges>
-        <range start1="0" end1="0" start2="0" end2="2" changelist="3fba1eb3-77c2-4cf8-a9c7-b49f47a73478" />
-        <range start1="13" end1="14" start2="15" end2="16" changelist="a26e6dea-7852-4751-b8d3-8ed4872ed49b" />
-      </ranges>
-    </file>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -126,7 +108,7 @@
       <workItem from="1667950195896" duration="1779000" />
       <workItem from="1668293728016" duration="1439000" />
       <workItem from="1668295200563" duration="2118000" />
-      <workItem from="1668297368400" duration="2132000" />
+      <workItem from="1668297368400" duration="4418000" />
     </task>
     <servers />
   </component>

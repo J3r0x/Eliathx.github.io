@@ -10,7 +10,7 @@ function Header() {
         <div className="logo-div">
             {/* TODO: Agregar logo de Imagen Sistemas */}
             <img className="logo-img"
-                 src="https://cdn.discordapp.com/attachments/751882434705883207/1033894211122122852/unknown.png"
+                 src="https://cdn.discordapp.com/attachments/925928236481912839/1041150059976347648/LOGO_Imagen_Sistemas.jpg"
                  alt="IMG-SIS"/>
         </div>
         <div className="navigation-bar">
