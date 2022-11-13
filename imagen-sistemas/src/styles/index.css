@@ -11,12 +11,16 @@
     --primary-identity-color: #063e57;
     --secondary-identity-color: #063e57;
 }
+h2{
+    font-size: 23px;
+
+}
 body {
     margin: 0;
     padding: 0;
 }
 *{
-    font-family: Antic Slab, sans-serif;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;;
 }
 .big-title{
     text-align: center;

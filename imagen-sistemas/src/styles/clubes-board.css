@@ -3,28 +3,43 @@
     padding-left: 50px;
     padding-right: 50px;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+
+}
+.clubes-board-container{
+   background-image: url("https://cdn.discordapp.com/attachments/925928236481912839/1041171717948702720/image.png");
 }
 
 .club-card {
-    color: var(--primary-text-color);
-    border-radius: 10px;
-    background-color: #5dc0c0;
-    padding: 15px;
+    color: var(--tertiary-text-color);
+    border-radius: 8px;
+    background-color: white;
+
     margin: 40px 10px;
     transition: 0.5s ease-in-out;
+    cursor: pointer;
 }
-
+.club-card-content{
+    margin-top: -15px;
+    text-align: justify;
+    padding: 0 15px 25px;
+}
 .club-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 9px 16px 0 rgba(166, 166, 166, 0.72);
+
+  /*  box-shadow: 0 9px 16px 0 rgba(166, 166, 166, 0.72);*/
 }
 
 .club-card-img-wrapper {
     height: 150px;
+    padding: 15px 15px 0;
+    position: relative;
+    top: -15px;
+    left: -15px;
+    width: 100%;
+
 }
 
 .club-card-img {
-    border-radius: 10px;
     width: 100%;
     height: 100%;
     object-fit: cover;
