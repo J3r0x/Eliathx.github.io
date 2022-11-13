@@ -2,7 +2,7 @@ import "../styles/quienesSomos.css"
 
 function QuienesSomos() {
     return <div className="about-div page" style={{textAlign: "center"}}>
-        <h1 className={"big-title"}>Quiénes somos</h1>
+        <h1 className={"big-title"}>Quiénes somo</h1>
 
         <h2 className={"center-title"}>Descripcion</h2>
         <div>
