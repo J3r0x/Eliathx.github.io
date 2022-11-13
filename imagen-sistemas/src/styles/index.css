@@ -20,7 +20,8 @@ body {
 }
 .big-title{
     text-align: center;
-font-size: 50px; color: #063e57;
+    font-size: 50px;
+    color: #063e57;
     font-weight: 800;
     margin-bottom:0;
 }

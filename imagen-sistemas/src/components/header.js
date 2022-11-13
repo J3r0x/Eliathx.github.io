@@ -14,7 +14,7 @@ function Header() {
                  alt="IMG-SIS"/>
         </div>
         <div className="navigation-bar">
-            <Tab page="Contacto"/>
+            <Tab page="Contacto" pageLink="Contacto"/>
 
             {/*TODO: Create component from array */}
 
@@ -33,7 +33,7 @@ function Header() {
                 <div className="subnav-content">
                     <a className="subnav-element">DIRECTORIO FIS</a>
                     <a className="subnav-element">USO DE EXTINTORES </a>
-                    <Tab page={"Biblioteca"}/>
+                    <Tab page={"Biblioteca"} pageLink="Biblioteca"/>
                     <a className="subnav-element">OTROS</a>
                 </div>
             </div>
@@ -43,7 +43,7 @@ function Header() {
                     <NavLink to="/Eventos">EVENTOS {arrow}</NavLink>
                 </div>
                 <div className="subnav-content">
-                    <Tab page="Casas Abiertas"/>
+                    <Tab page="Casas Abiertas" pageLink="CasasAbiertas"/>
                     <a className="subnav-element">COMPETENCIAS</a>
                     <a className="subnav-element">SOCIALES</a>
                     <a className="subnav-element">JISIC</a>
@@ -52,8 +52,8 @@ function Header() {
                 </div>
             </div>
 
-            <Tab page="Quienes Somos"/>
-            <Tab page="Inicio"/>
+            <Tab page="Quienes Somos" pageLink="/QuienesSomos"/>
+            <Tab page="Inicio" pageLink="/"/>
 
         </div>
 

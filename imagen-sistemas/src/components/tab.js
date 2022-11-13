@@ -19,7 +19,7 @@ const arrow = <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fil
 function Tab(props) {
     return <li className="tab ">
         <div className={"bottom-border"}>
-            <NavLink to={props.page}><a style={{textTransform:"uppercase"}}> {props.page}</a></NavLink>
+            <NavLink to={props.pageLink}><a style={{textTransform:"uppercase"}}> {props.page}</a></NavLink>
         </div>
     </li>
 }

@@ -1,3 +1,5 @@
+import "../styles/Biblioteca.css"
+
 function Biblioteca(){
     return <div className={"page"}>
         <div>
@@ -11,7 +13,7 @@ function Biblioteca(){
                 <span>Lunes a Viernes de 8:00 a 18:00</span>
             </div>
 
-            <div>
+            <div className={"img-Horario"}>
                 <img style={{width: "45%"}} src={"https://imagenfis.epn.edu.ec/images/biblioteca-de-sistemas/20160212_145800.jpg"} alt={"Imagen de el interior de la biblioteca con personas haciendo actividades"}/>
             </div>
         </div>

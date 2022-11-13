@@ -15,16 +15,15 @@ import Contacto from "./pages/Contacto";
 import Biblioteca from "./pages/Biblioteca";
 import CasaAbierta from "./pages/events/CasaAbierta";
 
-
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
     <BrowserRouter>
         <Header/>
            <Routes>
-               <Route path="/Inicio" element={<Home/>}/>
-               <Route path="/Casas Abiertas" element={<CasaAbierta/>}/>
-               <Route path="/Quienes Somos" element={<QuienesSomos/>}/>
+               <Route path="/" element={<Home/>}/>
+               <Route path="/CasasAbiertas" element={<CasaAbierta/>}/>
+               <Route path="/QuienesSomos" element={<QuienesSomos/>}/>
                <Route path="/Eventos" element={<EventsMain/>}/>
                <Route path="/Contacto" element={<Contacto/>}/>
                 <Route path={"/Biblioteca"} element={<Biblioteca/>}/>
